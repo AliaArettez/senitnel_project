@@ -25,4 +25,4 @@ The code will promt you to enter four parameters:
 - ID of Sentinel workspace
 - Shared key for authorization
 - Name of the table you want to insert into. (If the table does not exist it will create it)
-- Name of JSON file with logs in JSON format (If the file is not in the same folder you will need to enter full path to the file)
+- Name of JSON file with logs in JSON format (If the file is not in the same folder you will need to enter full path to the file) You can find examplery file "data.json" in the project.
